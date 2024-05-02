@@ -2,6 +2,10 @@
 
 CycleGAN is a type of Generative Adversarial Network (GAN) used for image-to-image translation tasks without needing paired examples. This implementation is specifically tailored for image dehazing, which aims to remove haze from images.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/engindeniz/Cycle-Dehaze/master/figs/model.png" alt="Model Architecture" width="1048" height="508"/>
+</p>
+
 ## Overview
 
 The CycleGAN for dehazing consists of two main components:
