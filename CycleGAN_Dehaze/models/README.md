@@ -9,6 +9,6 @@ You can conveniently download the required model files from our Google Drive rep
 
 We understand that this additional step may be inconvenient, but we believe it's a small price to pay for the quality and integrity of our project.
 <p align = "center">
-	<img src="[CycleGAN_Dehaze/assets/CycleGAN.png](https://github.com/HarshGandhi2111/GAN-RMFC-Div-A-Comparitive-Analysis-of-GANs-for-Multispectral-Satellite-Image-Dehazing/blob/85b2cc10b3c0266cbe63a99816ecaa3986fa01b3/CycleGAN_Dehaze/assets/CycleGAN.png)" alt="Dehaze-GAN in action" height=50% width=50%>
+	<img src="CycleGAN_Dehaze/assets/CycleGAN.jpg" height=50% width=50%>
 	</img>
 </p>
