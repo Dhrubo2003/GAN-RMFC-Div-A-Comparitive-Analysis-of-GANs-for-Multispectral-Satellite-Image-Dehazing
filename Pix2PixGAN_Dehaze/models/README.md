@@ -8,3 +8,4 @@ You can conveniently download the required model files from our Google Drive rep
 - [Pix2PixGAN Model Link](https://drive.google.com/drive/folders/1Q8ClENe69lsS82tiKvqkLF5r2r1imXuC?usp=drive_link) 
 
 We understand that this additional step may be inconvenient, but we believe it's a small price to pay for the quality and integrity of our project.
+<img src="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" alt="Model Architecture" width="524" height="254"/>
