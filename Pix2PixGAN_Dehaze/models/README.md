@@ -5,6 +5,6 @@ Regrettably, we are unable to directly upload the saved models due to their larg
 
 You can conveniently download the required model files from our Google Drive repository using the links provided below:
 
-- [GAN Model Link](https://drive.google.com/drive/folders/1Q8ClENe69lsS82tiKvqkLF5r2r1imXuC?usp=drive_link) 
+- [Pix2PixGAN Model Link](https://drive.google.com/drive/folders/1Q8ClENe69lsS82tiKvqkLF5r2r1imXuC?usp=drive_link) 
 
 We understand that this additional step may be inconvenient, but we believe it's a small price to pay for the quality and integrity of our project.
