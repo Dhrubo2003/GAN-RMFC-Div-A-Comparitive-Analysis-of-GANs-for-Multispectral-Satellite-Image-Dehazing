@@ -5,7 +5,9 @@ This project implements a Generative Adversarial Network (GAN) using Vision Tran
 ## Overview
 
 Generative Adversarial Networks (GANs) consist of two main components: the generator and the discriminator. The generator creates images, while the discriminator evaluates them. The discriminator in this project is based on the Vision Transformer architecture, allowing it to efficiently process and evaluate multispectral satellite images in terms of their authenticity.
-
+<p align="center">
+  <img src="https://www.casualganpapers.com/assets/images/vitgan_teaser.jpg" alt="Model Architecture" width="1048" height="508"/>
+</p>
 ### Dataset
 
 The dataset used comprises multispectral satellite images captured by satellites orbiting the Earth. These images contain multiple bands of data representing various wavelengths of electromagnetic radiation. The dataset includes images of different geographical features such as forests, water bodies, urban areas, and agricultural fields.
