@@ -3,6 +3,11 @@
 ## Overview
 
 This repository contains an implementation of Pix2Pix Generative Adversarial Network (GAN) for image dehazing. Pix2Pix GAN is a type of conditional GAN which is well-suited for image-to-image translation tasks, where the input and output images have a structured relationship. In the context of image dehazing, the input images are hazy images, and the goal is to generate clear, haze-free images as output.
+<p align="center">
+  <img src="https://www.mdpi.com/applsci/applsci-10-05898/article_deploy/html/images/applsci-10-05898-g002.png" alt="Model Architecture" width="1048" height="508"/>
+</p>
+
+
 
 ## Features
 
