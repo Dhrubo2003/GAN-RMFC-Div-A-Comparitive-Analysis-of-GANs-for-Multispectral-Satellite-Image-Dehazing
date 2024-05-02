@@ -36,10 +36,6 @@ The training process involves alternating between training the discriminator and
 
 The effectiveness of the model is demonstrated by the discriminator's accuracy and the visual quality of generated multispectral satellite images. Example outputs will be saved during training at specified intervals.
 
-## Setup and Usage
-
-Instructions on how to set up and run the project, including the environment setup, dependencies, and execution steps.
-
 ## Conclusion
 
-This project showcases the application of Vision Transformers in adversarial settings to generate new multispectral satellite images. The model's performance can be further enhanced by experimenting with different architectures, training longer, or using larger datasets.
+This section showcases the application of Vision Transformers in adversarial settings to generate new multispectral satellite images. The model's performance can be further enhanced by experimenting with different architectures, training longer, or using larger datasets.
