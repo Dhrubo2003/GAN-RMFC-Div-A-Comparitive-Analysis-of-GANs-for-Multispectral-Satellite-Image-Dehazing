@@ -8,4 +8,7 @@ You can conveniently download the required model files from our Google Drive rep
 - [CycleGANDehaze Model Link](https://drive.google.com/drive/folders/1Q8ClENe69lsS82tiKvqkLF5r2r1imXuC?usp=drive_link) 
 
 We understand that this additional step may be inconvenient, but we believe it's a small price to pay for the quality and integrity of our project.
-![Image Description](CycleGAN_Dehaze/assets/CycleGAN.png)
+<p align = "center">
+	<img src="/src/fog.png" alt="Dehaze-GAN in action" height=50% width=50%>
+	</img>
+</p>
