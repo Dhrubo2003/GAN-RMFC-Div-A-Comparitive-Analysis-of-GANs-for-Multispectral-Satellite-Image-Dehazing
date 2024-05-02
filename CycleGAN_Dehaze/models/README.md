@@ -9,4 +9,4 @@ You can conveniently download the required model files from our Google Drive rep
 
 We understand that this additional step may be inconvenient, but we believe it's a small price to pay for the quality and integrity of our project.
 
-<img src="" alt="Model Architecture" width="524" height="254"/>
+<img src="assets/CycleGAN.png" alt="Model Architecture"/>
