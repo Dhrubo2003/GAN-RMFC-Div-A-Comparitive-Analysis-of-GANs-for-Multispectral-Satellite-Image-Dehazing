@@ -4,6 +4,8 @@
 ## Introduction
 Satellite image dehazing is crucial for various applications such as environmental monitoring, disaster management, and urban planning. This comparative analysis evaluates the efficacy of Generative Adversarial Network (GAN) algorithms, including ViTGAN, CycleGAN, Pix2Pix GAN, alongside a novel approach called DehazeFormer, which incorporates traditional Transformers, for the task of multispectral satellite image dehazing.
 
+<img width="468" alt="dehazing" src="https://miro.medium.com/v2/resize:fit:2000/1*0MFC3OkDGpLD7cKssUs37w.png">
+
 ## ViTGAN
 ViTGAN combines Vision Transformers (ViT) with GANs to learn spatial dependencies and capture long-range interactions in multispectral satellite images. Leveraging the self-attention mechanism of ViT, ViTGAN effectively identifies and removes haze artifacts while preserving image details and enhancing overall image quality.
 
@@ -15,7 +17,5 @@ Pix2Pix GAN is a conditional GAN architecture learning a mapping from input to o
 
 ## Conclusion
 This analysis aims to identify the strengths and limitations of GAN-based approaches, such as ViTGAN, CycleGAN, and Pix2Pix GAN, compared to the innovative DehazeFormer method. It informs the selection of appropriate dehazing techniques for multispectral satellite image applications, advancing the state-of-the-art in satellite image processing.
-
-<img width="468" alt="dehazing" src="https://miro.medium.com/v2/resize:fit:2000/1*0MFC3OkDGpLD7cKssUs37w.png">
 
 ## Individual Folder Structure
