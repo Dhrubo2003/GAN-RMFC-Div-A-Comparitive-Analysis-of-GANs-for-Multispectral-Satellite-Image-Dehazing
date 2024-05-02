@@ -8,4 +8,4 @@ You can conveniently download the required model files from our Google Drive rep
 - ![CycleGAN][CycleGANDehaze Model Link](https://drive.google.com/drive/folders/1WZu1nOX2c8fPHQsG4k7M6e0xP19E0gPn?usp=drive_link) 
 
 We understand that this additional step may be inconvenient, but we believe it's a small price to pay for the quality and integrity of our project.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/HarshGandhi2111/GAN-RMFC-Div-A-Comparitive-Analysis-of-GANs-for-Multispectral-Satellite-Image-Dehazing/CycleGAN_Dehaze/assets/CycleGAN.jpg?raw=true)
