@@ -19,5 +19,3 @@ Pix2Pix GAN is a conditional GAN architecture learning a mapping from input to o
 
 ## Conclusion
 This analysis aims to identify the strengths and limitations of GAN-based approaches, such as ViTGAN, CycleGAN, and Pix2Pix GAN, compared to the innovative DehazeFormer method. It informs the selection of appropriate dehazing techniques for multispectral satellite image applications, advancing the state-of-the-art in satellite image processing.
-
-## Individual Folder Structure
