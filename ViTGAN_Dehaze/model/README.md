@@ -5,4 +5,4 @@ Regrettably, due to kernel failures preventing the saving of models on Kaggle, w
 
 We understand that this additional step may be inconvenient, but we believe it's a small price to pay for the quality and integrity of our project.
 
-<img src="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" alt="Model Architecture" width="524" height="254"/>
+![ViTGAN](https://github.com/HarshGandhi2111/GAN-RMFC-Div-A-Comparitive-Analysis-of-GANs-for-Multispectral-Satellite-Image-Dehazing/assets/124970132/e81d541e-fb15-425f-bad5-3131c7af211d)
